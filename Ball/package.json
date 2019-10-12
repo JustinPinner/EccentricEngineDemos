@@ -1,0 +1,31 @@
+{
+  "name": "balldemo",
+  "version": "1.0.0",
+  "description": "An EccentricEngine Demonstration",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinPinner/EEDemos.git"
+  },
+  "keywords": [],
+  "author": "Justin Pinner",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/JustinPinner/EccentricEngineDemos/Ball/issues"
+  },
+  "homepage": "https://github.com/JustinPinner/EccentricEngineDemos/Ball#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "eccentric-engine": "^1.0.3",
+    "uuid": "^3.3.3"
+  }
+}

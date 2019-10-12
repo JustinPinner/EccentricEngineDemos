@@ -1,0 +1,19 @@
+
+body {
+	overflow: hidden;
+	background-color: #000000;
+}
+
+#fgdiv {
+	background: transparent; 	
+	overflow: hidden;
+	position: absolute;
+	z-index: 4; 
+}
+
+#fgcanvas {
+	overflow: hidden;
+	top: 0px;
+	left: 0px;
+	z-index: 5; 
+}
