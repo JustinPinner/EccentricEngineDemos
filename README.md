@@ -1,5 +1,7 @@
 ## Eccentric Engine Demos
 
+Eccentric what? See the [engine](https://github.com/JustinPinner/EccentricEngine) repo here for details.
+
 ## Instructions
 
 These demos rely on `npm`, and by extension, `node` to download the tools that you'll use when compiling them from source.
