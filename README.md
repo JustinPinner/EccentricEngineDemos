@@ -1,5 +1,4 @@
 ## Eccentric Engine Demos
----
 
 ## Instructions
 
@@ -18,5 +17,5 @@ then, to pick up any stragglers, run:
 and if everything goes well, you'll be all set and able to run the `compile.sh` script for each demo project should you wish.
 
 ## Demos
----
+
 
