@@ -22,4 +22,6 @@ This is an exercise in getting set up with EccentricEngine and using it in a sim
 
 The objective is to draw a ball (in two dimensions, so just a circle really) on the screen and have it bounce around within the confines of the browser's viewport.
 
+## Metademo
 
+There's a built version [here](https://justinpinner.github.io/eccentric-engine-demos/ball/dist/default.html) for your enjoyment.
