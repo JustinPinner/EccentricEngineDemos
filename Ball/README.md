@@ -4,7 +4,7 @@
 
 Install npm and any required dependencies for your OS (see the main [README](https://github.com/JustinPinner/EccentricEngineDemos/blob/master/README.md) for more details)
 
-This has been tested with several desktop browsers, and as you might expect some are better than others. Chrome, Firefox and Safari seem to be pretty much ok, but Edge and mobile versions of those big three either partially work or don't run at all. At some point I'll try to fix those up, but in the meantime three working browsers is probably enough to get started with.
+This has been tested with several desktop browsers, and as you might expect some are better than others. Chrome, Firefox and Safari seem to be pretty much ok. Haven't tried Edge with this yet. Mobile versions of Chrome, Firefox and Opera seem to be ok too.
 
 You'll find a `compile.sh` script in this project's directory, but before you can execute that, you'll have to switch to the project directory, e.g. `% cd ~/path/to/your/cloned/source/Ball` and run these commands (based on MacOS - your OS may be different)
 *  npm install eccentric-engine
